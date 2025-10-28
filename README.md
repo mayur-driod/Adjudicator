@@ -1,0 +1,1 @@
+An Expo mobile app where users pick a board/card game, open a chat with an AI that has the official rulebook loaded via a RAG pipeline, and then “chat, debate, or adjudicate” rules with the AI — with sources, rule citations, and session sharing.
